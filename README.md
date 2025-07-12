@@ -10,3 +10,17 @@
 
 ### 感謝你來參觀 🙌
 
+# 👋 Hello GitHub
+
+我是 Benny，這是我的第一個專案！
+
+## 💡 我的目標：
+- 學會 GitHub
+- 練習 Markdown
+- 以後開始學寫 Python
+
+> 「萬事起頭難，但你已經開始了！」
+
+```python
+print("Hello, GitHub!")
+
